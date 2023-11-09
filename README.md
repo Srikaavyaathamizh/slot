@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date:
+## Date:09.11.2023
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -35,9 +35,9 @@ Execute the program using runserver command.
 		<img src="/static/logo.png"height="100" width="500">
 		</center>
 		<center>
-		<table border="3" bgcolor="cyan"
+		<table border="3" bgcolor="pink"
 			<caption align="center"><b>SLOT TIME - TABLE SRIKAAVYAA (23013589)</b></caption>
-			<tr bgcolor="yellow">
+			<tr bgcolor="brown">
 				<th>Day</th>
 				<th colspan="2">8.00-10.00</th>
 				<th colspan="2">10.00-12.00</th>
@@ -46,36 +46,36 @@ Execute the program using runserver command.
 				<th colspan="2">3.00-5.00</th>
 			</tr>
 			<tr>
-				<th bgcolor="cyan">MON</th>
+				<th bgcolor="brown">MON</th>
 				<td colspan="2">EDM</td>
 				<td colspan="2">CHEMISTRY</td>
-				<td colspan="2" rowspan="5" align="center"bgcolor="yellow">LUNCH</td>
+				<td colspan="2" rowspan="5" align="center"bgcolor="pink">LUNCH</td>
 				<td colspan="2">FREE</td>
 				<td colspan="2">FREE</td>
 			</tr>
 			<tr>
-				<th bgcolor="cyan">TUES</th>
+				<th bgcolor="brown">TUES</th>
 				<td colspan="2">FREE</td>
 				<td colspan="2">PYTHON</td>
 				<td colspan="2">ENGLISH</td>
 				<td colspan="2">FREE</td>
 			</tr>
 			<tr>
-				<th bgcolor="cyan">WED</th>
+				<th bgcolor="brown">WED</th>
 				<td colspan="2">WEB</td>
 				<td colspan="2">EDM</td>
 				<td colspan="2">FREE</td>
 				<td colspan="2">PYTHON</td>
 			</tr>
 			<tr>
-				<th bgcolor="cyan">THURS</th>
+				<th bgcolor="brown">THURS</th>
 				<td colspan="2">FREE</td>
 				<td colspan="2">WEB</td>
 				<td colspan="2">ENGLISH</td>
 				<td colspan="2">PYTHON</td>
 			</tr>
 			<tr>
-				<th bgcolor="cyan">FRI</th>
+				<th bgcolor="brown">FRI</th>
 				<td colspan="2">PYTHON</td>
 				<td colspan="2">FREE</td>
 				<td colspan="2">WEB</td>
@@ -118,10 +118,11 @@ Execute the program using runserver command.
 		</table>
 	</body>
 </html>
+			
 ```
 
 ## OUTPUT
-![Alt text](<Screenshot 2023-11-09 211607.png>)
+![Alt text](<Screenshot 2023-11-09 232457.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
